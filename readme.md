@@ -23,15 +23,15 @@
 
 #### Пошук існуючого підрядка:
 
-KMP Search (existing): 0.0010660000261850655 секунд
-Boyer-Moore Search (existing): 0.0005713329883292317 секунд
-Rabin-Karp Search (existing): 0.0008426670101471245 секунд
+- KMP Search (existing): 0.0010660000261850655 секунд
+- Boyer-Moore Search (existing): 0.0005713329883292317 секунд
+- Rabin-Karp Search (existing): 0.0008426670101471245 секунд
 
 #### Пошук неіснуючого підрядка:
 
-KMP Search (non-existing): 0.2567880419665016 секунд
-Boyer-Moore Search (non-existing): 0.03331466700183228 секунд
-Rabin-Karp Search (non-existing): 0.2763454159721732 секунд
+- KMP Search (non-existing): 0.2567880419665016 секунд
+- Boyer-Moore Search (non-existing): 0.03331466700183228 секунд
+- Rabin-Karp Search (non-existing): 0.2763454159721732 секунд
 
 ### Загальний висновок:
 
